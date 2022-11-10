@@ -52,6 +52,7 @@ const Blogs = () => {
         </div>
       </div>
 
+
       <div className="pt-10">
         <h1 className="text-center font-libreBasker text-4xl lg:my-16 my-10 mx-4">
         What is JWT, and how does it work?
@@ -76,6 +77,7 @@ Now that you understand JSON as a data text format, you may be wondering What ar
         </div>
       </div>
 
+
       <div className="pt-10">
         <h1 className="text-center font-libreBasker text-4xl lg:my-16 my-10 mx-4">
         What is the difference between javascript and NodeJS?
@@ -98,6 +100,7 @@ Now that you understand JSON as a data text format, you may be wondering What ar
           </div>
         </div>
       </div>
+      
 
       <div className="pt-10">
         <h1 className="text-center font-libreBasker text-4xl lg:my-16 my-10 mx-4">
