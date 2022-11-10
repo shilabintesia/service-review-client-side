@@ -12,6 +12,7 @@ const Product = ({ service }) => {
         console.log(id)
         navigate(`/purchage/${id}`)
     }
+    
     return (
         <div>
             <div className='product-container p-2 rounded-3 border-2 ' data-aos="fade-down"
@@ -29,5 +30,6 @@ const Product = ({ service }) => {
         </div>
     );
 };
+
 
 export default Product;
