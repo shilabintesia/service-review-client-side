@@ -18,6 +18,8 @@ const Blogs = () => {
         }}
         className="py-5 text-white"
       >
+
+    
         <div className="lg:ml-28 py-10 ml-10">
           <h1 className="font-libreBasker font-medium text-6xl">Blogs</h1>
           <h5 className="font-openSans text-xl font-medium py-5">
