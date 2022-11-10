@@ -54,16 +54,19 @@ const AddProducts = () => {
                         placeholder='Enter Price Per Unit'
                         type="number" {...register("price")}
                     /><br />
+
                     <input
                         className='mb-3 input input-bordered input-primary w-full max-w-xs'
                         placeholder='Enter Minimum Order Quantity'
                         type="number" {...register("orderQuantity")}
                     /><br />
+                    
                     <input
                         className='mb-3 input input-bordered input-primary w-full max-w-xs'
                         placeholder='Enter Available Order Quantity'
                         type="number" {...register("availableQuantity")}
                     /><br />
+
 
                     <input
                         className='mb-3  input input-bordered input-primary w-full max-w-x'
