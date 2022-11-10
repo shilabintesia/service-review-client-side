@@ -100,7 +100,7 @@ Now that you understand JSON as a data text format, you may be wondering What ar
           </div>
         </div>
       </div>
-      
+
 
       <div className="pt-10">
         <h1 className="text-center font-libreBasker text-4xl lg:my-16 my-10 mx-4">
@@ -134,5 +134,6 @@ They are all share same port (PORT 3000) but not state. The master process liste
     </div>
   );
 };
+
 
 export default Blogs;
