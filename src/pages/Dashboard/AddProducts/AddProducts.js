@@ -38,6 +38,7 @@ const AddProducts = () => {
                         value={user.displayName}
                         {...register("adminName", { required: true, maxLength: 25 })}
                     /> <br />
+                    
                     <input
                         className='mb-3  input input-bordered input-primary w-full max-w-xs '
                         value={user.email}
@@ -49,7 +50,7 @@ const AddProducts = () => {
                         placeholder='Enter Product Name'
                         type="text" {...register("name")}
                     /><br />
-                    
+
                     <input
                         className='mb-3 input input-bordered input-primary w-full max-w-xs'
                         placeholder='Enter Price Per Unit'
