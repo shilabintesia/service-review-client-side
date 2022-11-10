@@ -21,6 +21,7 @@ const Client = () => {
         autoplaySpeed: 3500,
         cssEase: "linear"
     };
+    
     return (
         <div className='mt-16'>
             <h2 className='text-4xl text-primary font-bold text-center mb-12'>Our Clients</h2>
@@ -47,5 +48,6 @@ const Client = () => {
         </div>
     );
 };
+
 
 export default Client;
