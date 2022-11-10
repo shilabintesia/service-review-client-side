@@ -4,4 +4,4 @@
 . tailwind config
 . install mongodb
 
-Live Link : 
+Live Link : https://eat-pray-love-f4ddd.web.app/
