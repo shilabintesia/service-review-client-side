@@ -1,6 +1,7 @@
 import React from 'react';
 import whyUs from '../../../assets/images/why-us.png'
 
+
 const WhyUs = () => {
     return (
         <div>
@@ -24,5 +25,6 @@ const WhyUs = () => {
         </div>
     );
 };
+
 
 export default WhyUs;
